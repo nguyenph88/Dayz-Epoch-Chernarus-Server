@@ -6,11 +6,11 @@ Already Made and Configed Server
 
 Make this to backup my Dayz Epoch Napf Insland Server so next time I don't have to reinstall every scripts and setup again. 
 
-Battleye Antihack Config is located in the Epoch Napf folder.
+Battleye Antihack Config is located in the Epoch Napf folder. Look at Napf Repo to see the real path structure.
 
 Server IP: 198.52.214.2:2402 
 
-![Image](MPMission/DayZ_Epoch_11.Chernarus/ss2.jpg?raw=true)
+![Image](DayZ_Epoch_11.Chernarus/ss2.jpg?raw=true)
 
 List of scripts
 -----------
